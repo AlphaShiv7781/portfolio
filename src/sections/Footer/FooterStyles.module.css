@@ -1,0 +1,14 @@
+.container{
+    text-align: center;
+    p{
+        font-size: 16px;
+        color:var(--footer-text-color);
+    }
+}
+
+@media (width>=1400)
+{
+    .container{
+        text-align: center;
+    }
+}
