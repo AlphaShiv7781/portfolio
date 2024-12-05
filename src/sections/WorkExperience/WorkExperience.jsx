@@ -6,7 +6,7 @@ const WorkExperience = () => {
     {
       title: 'Flutter Developer Intern',
       company: 'Evening Coder',
-      duration: 'Jan 2023 - May 2023',
+      duration: 'Jun 2024 - Nov 2024',
       description: [
         'Developed a mobile application using Flutter for real-time tracking.',
         'Integrated APIs to enhance user engagement and functionality.',
