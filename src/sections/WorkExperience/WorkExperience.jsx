@@ -5,7 +5,7 @@ const WorkExperience = () => {
   const experiences = [
     {
       title: 'Flutter Developer Intern',
-      company: 'Evening Coder',
+      company: 'Evening Coders',
       duration: 'Jun 2024 - Nov 2024',
       description: [
         'Developed a mobile application using Flutter for real-time tracking.',
