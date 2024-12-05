@@ -60,7 +60,7 @@ function Hero() {
         </a>
 
         <a href="https://leetcode.com/u/Shiv_2706/" target='_blank'>
-        <img src={leetcodeIcon} alt="Leetcode icon" />
+        <img src='/public/assets/leetcode.svg' alt="Leetcode icon" />
         </a>
 
         <a href="https://www.geeksforgeeks.org/user/shivamsharma242424/" target='_blank'>
