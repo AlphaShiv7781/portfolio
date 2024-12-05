@@ -1,0 +1,57 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .experiences {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    width: 80%;
+    max-width: 800px;
+  }
+  
+  .experience {
+    background-color: var(--background-color);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: left;
+  }
+  
+  .experience h2 {
+    font-size: 1.5rem;
+    color: var(--text-color);
+  }
+  
+  .experience h3 {
+    font-size: 1.2rem;
+    color: var(--secondary-color);
+  }
+  
+  .company {
+    color: var(--text-color); 
+    font-weight: bold;
+    font-size: 1.2rem;
+  }
+  
+  .duration {
+    color: var(--text-color); 
+    font-size: 1rem;
+  }
+  
+  .experience ul {
+    margin-top: 10px;
+    padding-left: 20px;
+  }
+  
+  .experience li {
+    font-size: 1rem;
+    color: var(--text-color);
+    line-height: 1.5;
+  }
+  
