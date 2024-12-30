@@ -9,7 +9,7 @@ import twitterDark from '../../assets/twitter-dark.svg'
 import gfgIcon from '../../assets/gfg.svg'
 import githubDark from '../../assets/github-dark.svg'
 import linkedinDark from '../../assets/linkedin-dark.svg'
-import CV from '../../assets/cv.pdf'
+import CV from '../../assets/ShivamSharma-Resume.pdf'
 import { useTheme } from '../../common/ThemeContext'
 
 function Hero() {
